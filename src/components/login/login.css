@@ -1,0 +1,66 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:300);
+.login-body{
+  background-image: url("../../../public/dims.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  -moz-background-size: 100%; 
+  -webkit-background-size: 100%;
+  -o-background-size: 100%; 
+  background-size: 100%;
+  padding-top: 288px;
+  height: 100%;
+}
+.input-div {
+  padding-bottom: 15px;
+}
+.logo {
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 100px;
+}
+.login-container {
+  width: 45%;
+  max-width: 500px;
+  margin: auto;
+  background: #fff;
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+}
+.input-position {
+  padding-left: 120px;
+  padding-bottom: 20px;
+}
+.form {
+  position: relative;
+  z-index: 1;
+  background: #FFFFFF;
+  max-width: 360px;
+  margin: 0 auto 100px;
+  padding: 45px;
+  text-align: center;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+.input-form {
+  border: none;
+  border-bottom: 1px solid #ced4da;
+}
+
+.input-form:focus {
+  border: none;
+  border-bottom: 1px solid #80bdff;
+  -webkit-box-shadow: none;
+   box-shadow: none;
+}
+
+.but {
+  font-family: "Roboto", sans-serif;
+  text-transform: uppercase;
+  outline: 0;
+  width: 74%;
+  border: 0;
+  padding: 15px;
+  font-size: 14px;
+  -webkit-transition: all 0.3 ease;
+  transition: all 0.3 ease;
+  cursor: pointer;
+}

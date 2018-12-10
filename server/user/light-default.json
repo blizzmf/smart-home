@@ -1,0 +1,22 @@
+[
+  {
+    "areaName": "Cпальня",
+    "value": false
+  },
+  {
+    "areaName": "Гараж",
+    "value": false
+  },
+  {
+    "areaName": "Гостиная",
+    "value": false
+  },
+  {
+    "areaName": "Кухня",
+    "value": false
+  },
+  {
+    "areaName": "Участок",
+    "value": false
+  }
+]

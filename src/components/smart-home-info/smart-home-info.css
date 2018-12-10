@@ -1,0 +1,18 @@
+.jumbotron {
+  background-image: url("../../../public/home.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 500px;
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 1em black;
+}
+.security{
+  background-image: url("../../../public/security.jpg");
+}
+.light{
+  background-image: url("../../../public/light.png");
+}
+.heating{
+  background-image: url("../../../public/heating.jpg");
+}
